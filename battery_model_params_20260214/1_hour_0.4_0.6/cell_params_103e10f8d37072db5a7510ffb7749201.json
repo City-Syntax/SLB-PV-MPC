@@ -1,0 +1,19 @@
+{
+  "file_path": "D:\\OneDriveDocument\\OneDrive - National University of Singapore\\Dissertation\\BatteryDataset\\SLB_para.xlsx",
+  "file_mtime": 1766840240.0810373,
+  "dt_step_s": 3600.0,
+  "soc_init": 0.5,
+  "soc_min": 0.4,
+  "soc_max": 0.6,
+  "degradation_column_name": "SOH_1",
+  "nominal_capacity_Ah": 2.1,
+  "max_charge_current": 0.84,
+  "max_discharge_current": -0.84,
+  "dt_inner_power_limit": 5.0,
+  "use_average_power_method": true,
+  "n_power_segments": 120,
+  "max_opt_iter": 50,
+  "opt_tol": 0.005,
+  "use_parallel_computation": true,
+  "n_jobs": -1
+}
